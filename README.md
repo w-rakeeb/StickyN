@@ -12,10 +12,12 @@ Download StickyN.exe from a release, put it in a writable folder, and open it. T
 
 Built for Windows 10 and 11. Windows 11 is tested; a physical Windows 10 test remains outstanding.
 
-- Fifteen paper designs and ten independent note colors.
+- Fifteen paper designs, ten color circles, a HEX color picker and custom gradients.
 - Handwriting fonts, text size, bold, italic, underline, strike, lists, and H1-H4.
 - Resizable notes with protected position, size, and text when locked.
-- Search, recoverable Trash, JSON backups, and local autosave.
+- Freely movable subnotes; to-do notes with outlined square, circle or star checkboxes.
+- Local photo previews, clickable links and document attachments.
+- Search, recoverable Trash, portable backups with attachments, and local autosave.
 - Five app styles, light/dark/system appearance, optional startup and silent mode.
 
 ## Updates
