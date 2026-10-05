@@ -1,0 +1,4 @@
+*.dpapi
+notes*.json
+*.pem
+*.pfx
