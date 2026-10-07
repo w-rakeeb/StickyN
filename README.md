@@ -19,6 +19,7 @@ Built for Windows 10 and 11. Windows 11 is tested; a physical Windows 10 test re
 - Freely movable subnotes in plain, taped or angled paper styles (Ctrl+Shift+N or Appearance → Add subnote); to-do notes with outlined square, circle or star checkboxes.
 - Local photo previews, clickable links and document attachments.
 - Search, recoverable Trash, portable backups with attachments, and local autosave.
+- Recycled note lists for large collections, keyboard movement/resizing, and save recovery with Retry save.
 - Five app styles, light/dark/system appearance, optional startup and silent mode.
 
 ## Updates
